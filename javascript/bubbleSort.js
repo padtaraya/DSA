@@ -23,5 +23,6 @@ function bubbleSort(array) {
 
 
 
+
 let arr = [1, 3, 5, 4, 2]
 bubbleSort(arr)
